@@ -19,6 +19,31 @@ Seasoned Software Developer with 9 years of experience delivering robust, scalab
 
 ---
 
+## 🔗 Blockchain / Web3
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-181717?logo=ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-1C1E26?logo=foundry&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2536EC?logo=ethers&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3.js&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?logo=chainlink&logoColor=white)
+![The Graph](https://img.shields.io/badge/The_Graph-9C27B0?logo=the-graph&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?logo=polygon&logoColor=white)
+![BNB Chain](https://img.shields.io/badge/BNB_Chain-F3BA2F?logo=binance&logoColor=white)
+![Optimism](https://img.shields.io/badge/Optimism-FF0420?logo=optimism&logoColor=white)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-2D374B?logo=arbitrum&logoColor=white)
+![Avalanche](https://img.shields.io/badge/Avalanche-E84142?logo=avalanche&logoColor=white)
+![zkSync](https://img.shields.io/badge/zkSync-121D33?logo=ethereum&logoColor=white)
+![Base](https://img.shields.io/badge/Base-0052FF?logo=coinbase&logoColor=white)
+![Moralis](https://img.shields.io/badge/Moralis-00AEEF?logo=moralis&logoColor=white)
+![Pinata](https://img.shields.io/badge/Pinata-F5DF4D?logo=pinata&logoColor=black)
+![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?logo=walletconnect&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?logo=metamask&logoColor=white)
+![OpenSea](https://img.shields.io/badge/OpenSea-2081E2?logo=opensea&logoColor=white)
+
+---
+
 ## ⚙️ Backend & Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
@@ -44,6 +69,8 @@ Seasoned Software Developer with 9 years of experience delivering robust, scalab
 ![Material UI](https://img.shields.io/badge/Material--UI-007FFF?logo=mui&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-593D88?logo=zustand&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%F0%9F%92%8E-4f46e5?style=for-the-badge)
+
 
 ---
 
@@ -57,31 +84,6 @@ Seasoned Software Developer with 9 years of experience delivering robust, scalab
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=white)
-
----
-
-## 🔗 Blockchain / Web3
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-181717?logo=ethereum&logoColor=white)
-![Foundry](https://img.shields.io/badge/Foundry-1C1E26?logo=foundry&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=openzeppelin&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2536EC?logo=ethers&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3.js&logoColor=white)
-![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?logo=chainlink&logoColor=white)
-![The Graph](https://img.shields.io/badge/The_Graph-9C27B0?logo=the-graph&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?logo=polygon&logoColor=white)
-![BNB Chain](https://img.shields.io/badge/BNB_Chain-F3BA2F?logo=binance&logoColor=white)
-![Optimism](https://img.shields.io/badge/Optimism-FF0420?logo=optimism&logoColor=white)
-![Arbitrum](https://img.shields.io/badge/Arbitrum-2D374B?logo=arbitrum&logoColor=white)
-![Avalanche](https://img.shields.io/badge/Avalanche-E84142?logo=avalanche&logoColor=white)
-![zkSync](https://img.shields.io/badge/zkSync-121D33?logo=ethereum&logoColor=white)
-![Base](https://img.shields.io/badge/Base-0052FF?logo=coinbase&logoColor=white)
-![Moralis](https://img.shields.io/badge/Moralis-00AEEF?logo=moralis&logoColor=white)
-![Pinata](https://img.shields.io/badge/Pinata-F5DF4D?logo=pinata&logoColor=black)
-![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?logo=walletconnect&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?logo=metamask&logoColor=white)
-![OpenSea](https://img.shields.io/badge/OpenSea-2081E2?logo=opensea&logoColor=white)
 
 ---
 
@@ -122,11 +124,6 @@ Seasoned Software Developer with 9 years of experience delivering robust, scalab
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=white)
-
----
-
-### 🧩 Keywords for Recruiters
-`PHP` · `JavaScript` · `TypeScript` · `Python` · `Solidity` · `Web3` · `DeFi` · `Fullstack Developer` · `Laravel` · `React` · `Next.js` · `Node.js` · `Hardhat` · `Foundry` · `Ethers.js` · `Blockchain Engineer` · `Microservices` · `Docker` · `AWS` · `CI/CD` · `Remote Developer`
 
 ---
 
