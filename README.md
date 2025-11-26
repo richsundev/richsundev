@@ -1,5 +1,3 @@
-<h1 align="center">💻 I'm a Web3 Frontend Engineer</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3500&color=00F0FF&center=true&vCenter=true&width=650&lines=Web3+Frontend+Engineer;Next.js+%7C+Wagmi+%7C+Viem;Building+wallet+UX+and+modern+dApps;Ethereum+%7C+L2s+%7C+Smart+Contract+Integrations" />
 </p>
