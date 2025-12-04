@@ -15,9 +15,6 @@ My work combines **Solidity**, **Node.js (viem)**, and **React/Next.js** to crea
 - DEX integrations (Uniswap, QuickSwap, Sushi, Uniswap v3 routing)
 - Flash-loan + arbitrage research, simulation, gas optimization
 
-### 🚀 Current Focus
-Building **cross-exchange arbitrage systems**, **DeFi automation tools**, and **real-time analytics dashboards** for Web3.
-
 Always open to Web3, DeFi, or open-source collaboration.
 
 ## ⚡ My Skills
