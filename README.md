@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3500&color=00F0FF&center=true&vCenter=true&width=650&lines=Blockchain+Engineer;Solidity+%7C+Rust+%7C+Vyper;Next.js+%7C+Wagmi+%7C+Viem;Building+wallet+UX+and+modern+dApps;Ethereum+%7C+L2s+%7C+Smart+Contract+Integrations" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3500&color=00F0FF&center=true&vCenter=true&width=650&lines=AI/ML & LLM Engineer;Full-Stack Engineer" />
 </p>
 
 ## 👋 Hi, I'm Web3 Full-Stack Developer
