@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3500&color=00F0FF&center=true&vCenter=true&width=650&lines=AI/ML & LLM Engineer;Full-Stack Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3500&color=00F0FF&center=true&vCenter=true&width=650&lines=AI/ML, LLM Engineer;Fullstack Engineer" />
 </p>
 
 ## 👋 Hi, I'm Web3 Full-Stack Developer
